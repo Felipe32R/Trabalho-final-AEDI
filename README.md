@@ -1,5 +1,4 @@
-
-# Trabalho-final-AEDI# Trabalho final da disciplina de Algoritmos e Estrutura de Dados I 
+# Trabalho final da disciplina de Algoritmos e Estrutura de Dados I 
 
 Implementação de um algoritmo em C++ que disponibiliza a utilização dos seguintes métodos de ordenação:
 
